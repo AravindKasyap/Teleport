@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d4ce6303165f20650850673bd5891fbcca80caae">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.journeyapps-zxing-android-embedded-3.2.0_3110400804a9b02e6ee120f7043ba140bb36eace/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d4ce6303165f20650850673bd5891fbcca80caae">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-embedded-3.2.0_3110400804a9b02e6ee120f7043ba140bb36eace.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_5b13a6235a25fee46296a2deca45b86ff2d5ecd0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_cc8bd67128924e02a7d470d074236902088bbe6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_02aae4777f53a0f26b717d82b3b8bbefbb1aa8b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_fa898e54e77a297d132a11fcdf2332b345030d0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_5b13a6235a25fee46296a2deca45b86ff2d5ecd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_02aae4777f53a0f26b717d82b3b8bbefbb1aa8b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_cc8bd67128924e02a7d470d074236902088bbe6c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="89f68533ca7ee1363f01f0c8c1c08c0a862e3627">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_028876fdd935359929c8730a743ab99ae912e6eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/applemacbookpro/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/pre-dexed/debug/core-3.2.1_9ae635842d2fac78c0a7a22852728c58cb0b7409.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_fa898e54e77a297d132a11fcdf2332b345030d0a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemacbookpro/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.2.1_9ae635842d2fac78c0a7a22852728c58cb0b7409/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0c3d0bc20b8675135c633e6e32e4c6893b617593">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e3502225d511b84a762fdb1d48d3cf809f1d990b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_21053f2ac518903e6b4b3a9ec89d5ffefa8b8faf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_21053f2ac518903e6b4b3a9ec89d5ffefa8b8faf/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/applemacbookpro/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_7f87666f3021c122e93f12cc34526e825d16a144.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemacbookpro/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_7f87666f3021c122e93f12cc34526e825d16a144/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_64b83ee22afb924a96b77a5ed9a9ab2dfd804986/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_eee464ca3c17c7ac9287c4fa9667eaf0599a24b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_0dc5b5d344ea6f39bafd68cf9069423f33347e16.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_eee464ca3c17c7ac9287c4fa9667eaf0599a24b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_0dc5b5d344ea6f39bafd68cf9069423f33347e16/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_ae7ea2a0bcff85818e19242cf94792f6a2143d76.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_ae7ea2a0bcff85818e19242cf94792f6a2143d76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemacbookpro/.gradle/caches/modules-2/files-2.1/org.jbundle.util.osgi.wrapped/org.jbundle.util.osgi.wrapped.org.apache.http.client/4.1.2/98c86e42679fe7ac066f6c242e0d14f0bce0bb7c/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_16be8b14c6a0193969f0eaf948c2536f1e8c0d1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_9ff398c4ae12ba5b68d9d72e3d5365e88f9bf9d7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9ff398c4ae12ba5b68d9d72e3d5365e88f9bf9d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_38efd86d980e37c168358e4a46e7449403f3e785.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/applemacbookpro/.gradle/caches/modules-2/files-2.1/org.jbundle.util.osgi.wrapped/org.jbundle.util.osgi.wrapped.org.apache.http.client/4.1.2/98c86e42679fe7ac066f6c242e0d14f0bce0bb7c/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/pre-dexed/debug/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_16be8b14c6a0193969f0eaf948c2536f1e8c0d1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_64b83ee22afb924a96b77a5ed9a9ab2dfd804986.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_2ae59a219ab87edd13ac6f201f070d304b2907dd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_a435c5e691e26c9eada7b28c99634ce5d1a826ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_38efd86d980e37c168358e4a46e7449403f3e785/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_a435c5e691e26c9eada7b28c99634ce5d1a826ee.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_752adb388aa4ef21e7b08de37ee630a5f1c957ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_752adb388aa4ef21e7b08de37ee630a5f1c957ab.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/applemacbookpro/AndroidStudioProjects/Teleport2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_2ae59a219ab87edd13ac6f201f070d304b2907dd/classes.dex" />
+    </item>
+
+</items>
